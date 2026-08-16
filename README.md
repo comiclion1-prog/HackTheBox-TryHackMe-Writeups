@@ -7,6 +7,6 @@ I use HTB Academy to master core security concepts, operating system internals, 
 | Module | Badge / Trophy | Achievement Details | Status |
 | :--- | :---: | :--- | :---: |
 | **Linux Fundamentals** | <img src="Screenshot 2026-08-16 003728.png" width="100"> | **Our favorite seabird**<br>Earned by only 2.4% of users. Focuses on navigation, file permissions, and package management. | ✅ Completed |
-| **Network Enumeration With Nmap** | 🎯 | Mastered host discovery, port scanning, service detection, and OS fingerprinting logic. | ✅ Completed |
+| **Network Enumeration With Nmap** | <img src="Screenshot 2026-08-16 004745.png" width="100"> | Mastered host discovery, port scanning, service detection, and OS fingerprinting logic. | ✅ Completed |
 | **Introduction to Academy** | <img src="Screenshot 2026-08-16 003528.png" width="100"> | **Academician**<br>Earned by 28.3% of users. Foundational onboarding and target environment usage. | ✅ Completed |
 | **Learning Process** | <img src="Screenshot 2026-08-16 003150.png" width="100"> | **Philomath**<br>Earned by 4.3% of users. Outlines effective technical ingestion strategies and methodologies. | ✅ Completed |
